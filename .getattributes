@@ -1,1 +1,1 @@
-*.sv linguist-language=Verilog
+*.sv linguist-language=SystemVerilog
